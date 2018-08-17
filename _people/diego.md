@@ -8,6 +8,5 @@ sub_heading: designer
 thumbnail: "/uploads/2018/02/25/car.jpg"
 email: diego@test
 linkedin: ''
-published: false
 
 ---
